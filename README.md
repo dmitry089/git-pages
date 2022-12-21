@@ -2,7 +2,7 @@
 <html>
     <head>
     <meta charset="UTF-8">
-    <title>добавить картинку</title>
+    <title> </title>
     <body>
     <img 
 src="1.png">

@@ -1,10 +1,5 @@
 # Всем привет!
-<html>
-    <head>
-    <meta charset="UTF-8">
-    <body>
-    <img 
-src="1.png">
+![му photo](https://skr.sh/sHZrSzhP7dW?a)
 
 ## Обо мне:
 

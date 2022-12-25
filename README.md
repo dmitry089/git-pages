@@ -1,5 +1,5 @@
 # Всем привет!
-![му photo](https://skr.sh/sHZrSzhP7dW?a)
+![f7peOozBNas — копия](https://user-images.githubusercontent.com/119620433/209477544-aeae5359-cd6b-4c51-83c8-9305fcd830a7.jpg)
 
 ## Обо мне:
 
